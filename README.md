@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandan Kumar
 
-<!--
-**mgchandan0510/mgchandan0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science undergrad at **M.S. Ramaiah University of Applied Sciences**, Bengaluru (Graduating August 2026), with a strong foundation from **M.S. Ramaiah Polytechnic** (Diploma in CSE, CGPA 9.88).  
+💻 Passionate about building intelligent systems and full-stack applications using modern tech stacks like **Python, Java, HTML/CSS, JavaScript, MySQL, and Machine Learning**.  
+🌱 Currently exploring **Data Science, Machine Learning**, and **Full Stack Development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** C, Java, Python, JavaScript  
+- **Web Development:** HTML, CSS, Flask  
+- **Databases:** MySQL  
+- **Libraries & Tools:** Pandas, scikit-learn, Matplotlib  
+- **Concepts:** Machine Learning, Data Visualization, OOP
+
+---
+
+## 💼 Projects
+
+### 🚦 [Traffic Challan Management System](https://github.com/yourusername/traffic-challan-management)
+*A Flask & MySQL-based system for managing traffic violation records*
+- Implemented CRUD operations with robust search and filtering.
+- Designed responsive frontend using HTML and CSS for admin and customer views.
+
+### 🧑‍🎓 [Face Recognition-Based Attendance System]
+*Real-time attendance capture using face detection and ML*
+- Used Haar Cascade and KNN algorithm for face recognition.
+- Built an interactive interface and deployed on a Flask backend.
+
+### 📈 [Gold Price Prediction]
+*ML-based predictive model for forecasting gold prices*
+- Utilized Random Forest Regression on historical data.
+- Focused on data preprocessing, feature selection, and model evaluation.
+
+
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Ranked among the **top 5%** during Diploma in CSE.
+- 🛠️ Successfully led and deployed 3 major tech projects.
+- 🧾 Certified in **Python**, **Pandas**, **Machine Learning**, and **Data Visualization**.
+- 📣 Presented in multiple project seminars at academic level.
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: mgchandan0510@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/mgchandan0510)  
+- 💻 [Instagram](https://instagram.com/mgchandan0510)
+
+---
+
+## 🔭 Future Goals
+
+- 🌐 Master Full Stack Development  
+- 📊 Dive deeper into Data Science and Machine Learning  
+- 📱 Explore iOS App Development using Swift  
