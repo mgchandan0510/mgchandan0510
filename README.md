@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandan Kumar
 
-🎓 I'm a Computer Science undergrad at **M.S. Ramaiah University of Applied Sciences**, Bengaluru (Graduating August 2026), with a strong foundation from **M.S. Ramaiah Polytechnic** (Diploma in CSE, CGPA 9.88).  
+🎓 I'm a Computer Science undergrad at **M.S. Ramaiah University of Applied Sciences**, Bengaluru (Graduating August 2026), with a strong foundation from **M.S. Ramaiah Polytechnic** (Diploma in CSE, CGPA 9.88).<br> 
 💻 Passionate about building intelligent systems and full-stack applications using modern tech stacks like **Python, Java, HTML/CSS, JavaScript, MySQL, and Machine Learning**.  
 🌱 Currently exploring **Data Science, Machine Learning**, and **Full Stack Development**.
 
