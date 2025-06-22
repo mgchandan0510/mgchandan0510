@@ -34,7 +34,7 @@
 - Implemented CRUD operations with robust search and filtering.
 - Designed responsive frontend using HTML and CSS for admin and customer views.
 
-### 🧑‍🎓 [Face Recognition-Based Attendance System](https://github.com/mgchandan0510/FaceRecognitionBasedAttendanceSystem)
+### 🧑‍ [Face Recognition-Based Attendance System](https://github.com/mgchandan0510/FaceRecognitionBasedAttendanceSystem)
 *Real-time attendance capture using face detection and ML*
 - Used Haar Cascade and KNN algorithm for face recognition.
 - Built an interactive interface and deployed on a Flask backend.
