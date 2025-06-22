@@ -20,6 +20,15 @@
 
 ## 💼 Projects
 
+### 🏁 [F1 Podium Prediction](https://github.com/mgchandan0510/F1racingResultPrediction)  
+*A machine learning model using Random Forest to predict top 3 race finishes in Formula 1.*
+
+- Trained on 2022–2024 F1 data with driver, constructor, and race performance metrics.
+- Engineered predictive features including grid position, team points, podium history, and circuit impact.
+- Used `RandomForestClassifier` with cross-validation for robust performance.
+- Predicted podium probabilities for upcoming races like the **2025 Chinese Grand Prix**.
+- Built with Python, pandas, NumPy, and scikit-learn; outputs interpretable metrics and rankings.
+
 ### 🚦 [Traffic Challan Management System](https://github.com/mgchandan0510/TrafficChallanManagementSystem)
 *A Flask & MySQL-based system for managing traffic violation records*
 - Implemented CRUD operations with robust search and filtering.
