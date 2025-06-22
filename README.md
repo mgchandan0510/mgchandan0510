@@ -20,7 +20,7 @@
 
 ## 💼 Projects
 
-### 🚦 [Traffic Challan Management System](https://github.com/yourusername/traffic-challan-management)
+### 🚦 [Traffic Challan Management System](https://github.com/mgchandan0510/TrafficChallanManagementSystem)
 *A Flask & MySQL-based system for managing traffic violation records*
 - Implemented CRUD operations with robust search and filtering.
 - Designed responsive frontend using HTML and CSS for admin and customer views.
