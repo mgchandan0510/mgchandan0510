@@ -39,7 +39,7 @@
 - Used Haar Cascade and KNN algorithm for face recognition.
 - Built an interactive interface and deployed on a Flask backend.
 
-### 📈 [Gold Price Prediction]
+### 📈 [Gold Price Prediction](https://github.com/mgchandan0510/GoldPricePrediction)
 *ML-based predictive model for forecasting gold prices*
 - Utilized Random Forest Regression on historical data.
 - Focused on data preprocessing, feature selection, and model evaluation.
