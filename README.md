@@ -20,6 +20,16 @@
 
 ## 💼 Projects
 
+### 🧠 [Deepfake Detection](https://github.com/mgchandan0510/DeepFakeImageDetection) 
+
+*A deep learning–powered Flask web app to classify images as real or fake using CNN.*
+- Trained a Convolutional Neural Network (CNN) on real vs. fake face images (e.g., Kaggle’s 140K dataset).
+- Engineered input pipeline with normalization, resizing (128x128), and data balancing.
+- Achieved high accuracy on test set using 3 Conv2D layers and dropout regularization.
+- Deployed the model via a Flask web interface allowing image uploads and real-time predictions.
+- Built with TensorFlow/Keras, OpenCV, NumPy, and Flask; predicts image class with confidence score.
+
+
 ### 🏁 [F1 Podium Prediction](https://github.com/mgchandan0510/F1racingResultPrediction)  
 *A machine learning model using Random Forest to predict top 3 race finishes in Formula 1.*
 
